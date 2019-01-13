@@ -1,0 +1,10 @@
+C:\Users\unium\source\repos\windowsforms\windowsforms\bin\Debug\windowsforms.exe.config
+C:\Users\unium\source\repos\windowsforms\windowsforms\bin\Debug\windowsforms.exe
+C:\Users\unium\source\repos\windowsforms\windowsforms\bin\Debug\windowsforms.pdb
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.csprojAssemblyReference.cache
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.Form1.resources
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.Properties.Resources.resources
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.csproj.GenerateResource.cache
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.csproj.CoreCompileInputs.cache
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.exe
+C:\Users\unium\source\repos\windowsforms\windowsforms\obj\Debug\windowsforms.pdb
